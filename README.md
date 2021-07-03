@@ -34,7 +34,7 @@ Download `.deb` File [Releases Page](https://github.com/meforce/zajjle/Zajjle-We
 **AppImage (Everything else)**
 
 Download `.AppImage` File [Releases Page](https://github.com/zajjle/Zajjle-Web-Browser/releases/latest).
-
+ 
 
 <a href="https://github.com/zajjle/Zajjle-Web-Browser/releases/download/v3.5.6/zajjle-3.5.6.AppImage"> 
 <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/zajjle/Zajjle-Web-Browser?color=blue&label=CLICK-DOWNLOAD-LINUX-AppImage&logo=linux&logoColor=white&style=for-the-badge"></a>
