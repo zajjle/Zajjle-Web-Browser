@@ -18,7 +18,7 @@ You can download the Mac OS builds for Zajjle here. <br>
 
 
 <a href="https://github.com/zajjle/Zajjle-Web-Browser/releases/download/v3.5.6/zajjle-3.5.6.dmg"> 
-<img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/zajjle/Zajjle-Web-Browsercolor=blue&label=DOWNLOAD-MAC-DMG&logo=github&logoColor=white&style=for-the-badge"></a>
+<img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/zajjle/Zajjle-Web-Browser?color=blue&label=DOWNLOAD-MAC-DMG&logo=github&logoColor=white&style=for-the-badge"></a>
 
 ### Linux
 
