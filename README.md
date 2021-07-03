@@ -26,7 +26,7 @@ You can download the Linux builds for Zajjle here. Hopefully Zajjle will have a 
 
 **Ubuntu, Debian ve Debian derivatives**
 
-Download `.deb` File [Releases Page](https://github.com/meforce/zajjle/Zajjle-Web-Browser/latest).
+Download `.deb` File [Releases Page](https://github.com/zajjle/Zajjle-Web-Browser/latest).
 
 <a href="https://github.com/zajjle/Zajjle-Web-Browser/releases/download/v3.5.6/Zajjle_3.5.6_amd64.deb"> 
 <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/zajjle/Zajjle-Web-Browser?color=blue&label=DOWNLOAD-LINUX-DEB&logo=linux&logoColor=white&style=for-the-badge"></a>
