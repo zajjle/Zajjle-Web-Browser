@@ -1,7 +1,7 @@
 # Zajjle-Web-Browser
 Zajjle Web Browser
 
-زاجل متصفح ويب
+متصفح ويب زاجل
 
 
 ### Windows
