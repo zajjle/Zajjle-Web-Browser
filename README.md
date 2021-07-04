@@ -1,7 +1,7 @@
 # Zajjle-Web-Browser
 Zajjle Web Browser
 
-![](https://zajjle.com/uploads/brand/logo_large_dark.png)
+<img src="https://raw.githubusercontent.com/meforce/holla/main/image/holla.png" width="250" height="250" align="center" style="max-width:100%;">
 
 متصفح ويب زاجل
 
