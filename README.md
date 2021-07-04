@@ -4,7 +4,7 @@ Zajjle Web Browser
 <img src="https://zajjle.com/uploads/brand/zajjle-logo.png" width="250" height="250" align="center" style="max-width:100%;">
 
 متصفح ويب زاجل
-
+# faq
 
 ### Windows
 
