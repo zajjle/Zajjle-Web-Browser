@@ -1,6 +1,6 @@
 # Zajjle-Web-Browser
 Zajjle Web Browser
-
+![](https://zajjle.com/uploads/brand/logo_large_dark.png)
 متصفح ويب زاجل
 
 
